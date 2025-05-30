@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 DevOps Application Monitoring Dashboard
 
 A comprehensive, real-time DevOps monitoring solution built with Next.js 15, featuring advanced visualizations, alert management, and infrastructure monitoring capabilities. This dashboard simulates enterprise-grade monitoring tools like Grafana, Datadog, and New Relic with realistic data and professional UI/UX.
@@ -213,17 +213,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with modern web technologies and best practices
 - Community-driven development approach
 
-## 📞 Support
-
-- 📧 Email: support@yourproject.com
-- 💬 Discord: [Join our community](https://discord.gg/yourserver)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/devops-monitoring-dashboard/issues)
-
 ---
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by SRIVANI VINNAKOTA 
 =======
-# DevopsDashboard
->>>>>>> 4da9959c99d1e6d7d51cbf1e735cb5d37beaf426
